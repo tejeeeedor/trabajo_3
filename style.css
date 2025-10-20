@@ -8,4 +8,13 @@ color:brown;
 font-style: oblique;   
 }
 
-p{}
+p{
+    font-style:italic;
+    color: white
+}
+
+#h1{
+    color:aqua;
+    font-size: 50px;
+    text-align: center;
+}
